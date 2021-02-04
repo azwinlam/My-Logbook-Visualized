@@ -4,7 +4,7 @@
 
 ## Code and Resources Used 
 **Python Version:** 3.9.1 
-**Packages:** pandas, numpy, seaborn, matplotlib, dateuti
+**Packages:** pandas, numpy, seaborn, matplotlib, dateutil
 
 ## Importing the data
 *The logbook is given in a .txt format. The easiest method to convert the .txt to csv is to import it using Excel and add External Data. Pandas does have a read_fwf function but the output was not in a clean format.
