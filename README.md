@@ -13,7 +13,7 @@
 The columns were quite clean as this was a computer generated file and flight records were complete. I split the city pairs into origin and destination for easier analysis. The date/time of flight was changed into datetime dtype using pandas.to_datetime.
 
 ## EDA
-Below are a few highlights from the pivot tables. 
+Below are the highlights from the logbook visualization
 
 ![alt text](https://github.com/azwinlam/My-Logbook-Visualized/blob/master/Which%20route%20did%20I%20fly%20most.png "Which route did I fly most.png")
 ![alt text](https://github.com/azwinlam/My-Logbook-Visualized/blob/master/Which%20aircraft%20type%20did%20I%20fly%20most.png "Which aircraft type did I fly most.png")
