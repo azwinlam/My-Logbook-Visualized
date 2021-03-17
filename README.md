@@ -1,6 +1,7 @@
 # My Logbook Visualized: Project Overview 
 * Objective: To produce simple graphs that give  insight on the pilot's career based on their logbooks.
 * Method: Created a python script that can take the standardized digital logbook issued by Cathay Pacific Group and generate standard graphs for all pilots.
+* [Visualize Your Logbook](tinyurl.com/kalogbook "Visualize Your Logbook")
 
 ## Code and Resources Used 
 **Python Version:** 3.9.1 
